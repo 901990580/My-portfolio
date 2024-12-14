@@ -420,7 +420,7 @@ export const themes = [
   {
     id: 7,
     img: Theme7,
-    color: "hsl(19, 96%, 52%)",
+    color: "hsl(176.94117647058823, 100%, 50%)",
   },
 
   {
